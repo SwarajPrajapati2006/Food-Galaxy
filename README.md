@@ -28,15 +28,17 @@ Food Galaxy is a modern **food ordering web application** built using React.js. 
 
 ## 📂 Project Structure  
 food-galaxy/
+<br/>
 │── public/
-│── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ ├── App.js
-│ └── index.js
-│── package.json
-│── README.md
+<br/>
+│── src/<br/>
+│ ├── components/<br/>
+│ ├── pages/<br/>
+│ ├── assets/<br/>
+│ ├── App.js<br/>
+│ └── index.js<br/>
+│── package.json<br/>
+│── README.md<br/>
 
 
 
